@@ -66,7 +66,7 @@ cd portfolio
 
 ### 📰 AI-Powered News Management Portal  
 🤖 Automated news categorization and recommendations using **Machine Learning**  
-🔗 [GitHub Repository](https://github.com/surajgupta9165/AI-Powered_News_Portal )  
+🔗 [GitHub Repository](https://github.com/surajgupta9165/AI-Powered_News_Management_Portal )  
 
 ### 📊 Superstore Sales Analysis  
 📈 Built an **interactive Tableau dashboard** analyzing sales trends  
